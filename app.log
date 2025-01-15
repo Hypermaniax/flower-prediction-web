@@ -1,0 +1,53 @@
+2025-01-07 23:34:24,491 - ERROR - Failed to load model: 72
+2025-01-07 23:35:27,555 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-07 23:35:27,562 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2025-01-07 23:35:27,564 - INFO - Model loaded successfully
+2025-01-07 23:35:27,592 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-07 23:35:27,592 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-07 23:35:27,605 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-07 23:35:36,770 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-07 23:35:36,774 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2025-01-07 23:35:36,775 - INFO - Model loaded successfully
+2025-01-07 23:35:36,788 - WARNING -  * Debugger is active!
+2025-01-07 23:35:36,794 - INFO -  * Debugger PIN: 909-577-375
+2025-01-07 23:38:41,596 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-07 23:38:41,600 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2025-01-07 23:38:41,601 - INFO - Model loaded successfully
+2025-01-07 23:38:41,623 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-07 23:38:41,623 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-07 23:38:41,630 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-07 23:38:50,823 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-07 23:38:50,827 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2025-01-07 23:38:50,828 - INFO - Model loaded successfully
+2025-01-07 23:38:50,839 - WARNING -  * Debugger is active!
+2025-01-07 23:38:50,847 - INFO -  * Debugger PIN: 909-577-375
+2025-01-07 23:40:25,498 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-07 23:40:25,504 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2025-01-07 23:40:25,504 - INFO - Model loaded successfully
+2025-01-07 23:40:25,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-07 23:40:25,524 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-07 23:40:25,530 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-07 23:40:33,781 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-07 23:40:33,786 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2025-01-07 23:40:33,786 - INFO - Model loaded successfully
+2025-01-07 23:40:33,799 - WARNING -  * Debugger is active!
+2025-01-07 23:40:33,806 - INFO -  * Debugger PIN: 909-577-375
+2025-01-07 23:40:59,102 - INFO - 127.0.0.1 - - [07/Jan/2025 23:40:59] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-01-07 23:40:59,769 - INFO - 127.0.0.1 - - [07/Jan/2025 23:40:59] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-01-07 23:42:50,560 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-07 23:42:50,564 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2025-01-07 23:42:50,565 - INFO - Model loaded successfully
+2025-01-07 23:42:50,587 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.18.19:5000
+2025-01-07 23:42:50,587 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-07 23:43:10,091 - INFO - 127.0.0.1 - - [07/Jan/2025 23:43:10] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-01-07 23:43:10,896 - INFO - 127.0.0.1 - - [07/Jan/2025 23:43:10] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-01-07 23:43:40,445 - INFO - Successful prediction: dandelion (confidence: 0.71)
+2025-01-07 23:43:40,452 - INFO - 127.0.0.1 - - [07/Jan/2025 23:43:40] "POST /predict HTTP/1.1" 200 -
+2025-01-07 23:44:26,012 - INFO - Successful prediction: sunflower (confidence: 0.47)
+2025-01-07 23:44:26,018 - INFO - 127.0.0.1 - - [07/Jan/2025 23:44:26] "POST /predict HTTP/1.1" 200 -

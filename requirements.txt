@@ -1,0 +1,7 @@
+FLASK
+flask_cors
+pillow
+tensorflow
+numpy
+opencv-python
+gunicorn
